@@ -1,4 +1,4 @@
 ---
 language : python
 
-script : pyhton demo.py
+script : python demo.py
